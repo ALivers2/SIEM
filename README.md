@@ -1,4 +1,4 @@
-# SIEM Azure
+# SIEM Azure🛡️
 Building a SOC + Honeynet in Azure (Using Live Traffic)
 Introduction
 
